@@ -1,4 +1,6 @@
-### <h1> Olá! Me chamo Pedro Castelo, sou Técinco em Desenvolvimento de Sisitemas e programador júnior 😀 </h1>
+### <h1> Olá! Me chamo Pedro Castelo 😀</h1>
+### Sou Técinco em Desenvolvimento de Sisitemas e programador júnior...
+##Tenho 17 anos e Estou procurando minhe primeira oportunidade  de emprego!
 
   [![GMAIL](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:pedrocastelobrancodosantos@gmail.com)[![LINKEDIN](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pedro-castelo-branco-dos-santos-029b1124a/) 
   
