@@ -11,5 +11,7 @@
     <img width = "50" heigth = "50" align = "center" alt = "Html5" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg" />
     <img width = "50" heigth = "50" align = "center" alt = "Html5" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg" />
     <img width = "50" heigth = "50" align = "center" alt = "Html5" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain-wordmark.svg" />
+     <img width = "50" heigth = "50" align = "center" alt = "Html5"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"  />
+    
   </div>
  
