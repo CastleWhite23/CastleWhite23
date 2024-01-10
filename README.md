@@ -7,6 +7,10 @@
   ![Pedro GitHub stats](https://github-readme-stats.vercel.app/api?username=CastleWhite23&theme=great-gatsby&show_icons=true)
   
   ##
+## <h1> Meus Projetos </h1>
+
+
+##
 
 ### Meus Aprendizados 
   <div style = "display: inline_block"> <br/>
@@ -22,13 +26,5 @@
     <img width = "50" heigth = "50" align = "center" alt = "Html5" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain.svg" />
     <img width = "50" heigth = "50" align = "center" alt = "Html5" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
     <img width = "50" heigth = "50" align = "center" alt = "Html5" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" />
-          
-          
-          
-          
-          
-          
-          
-    
   </div>
  
