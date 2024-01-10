@@ -5,6 +5,7 @@
   [![GMAIL](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:pedrocastelobrancodosantos@gmail.com)[![LINKEDIN](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pedro-castelo-branco-dos-santos-029b1124a/) 
   
   ![Pedro GitHub stats](https://github-readme-stats.vercel.app/api?username=CastleWhite23&theme=great-gatsby&show_icons=true)
+   <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=buefy&hide_border=true" /></a>
   
   ##
 ## <h1> Meus Projetos </h1>
